@@ -57,14 +57,14 @@ if(isset($_ENV[`CLEARDB_DATABASE_URL`])) {
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'put your unique phrase here');
-define('SECURE_AUTH_KEY',  'put your unique phrase here');
-define('LOGGED_IN_KEY',    'put your unique phrase here');
-define('NONCE_KEY',        'put your unique phrase here');
-define('AUTH_SALT',        'put your unique phrase here');
-define('SECURE_AUTH_SALT', 'put your unique phrase here');
-define('LOGGED_IN_SALT',   'put your unique phrase here');
-define('NONCE_SALT',       'put your unique phrase here');
+define('AUTH_KEY',         '_[Vo<$+->DCb6%Qdf~ +5+/f5.9,Gc~;j-{L-%&z-x?O*xF;h;&Y]FE2@;!*d14F');
+define('SECURE_AUTH_KEY',  'XQ#W;bp9h9K>U+T|D Y=ha+(,3q?O-[<VR3zX+a5rlD=-?7*<?g ~sN|N[F0[Vkt');
+define('LOGGED_IN_KEY',    'U!L+%kq^)$V>)Un(-|YOBNe/%vFi|WB;=ua-fgib4ju;o#LO +gMfB%;RFonFA P');
+define('NONCE_KEY',        ')74tUA_uu+ nw,+CV/Vx>oSPvEWBfHD-x-!*nbq}39FbM74|#-PVd1(iRxk*)1<%');
+define('AUTH_SALT',        ')Yn^5C?1Am$JR1+vbzv<hS[t(fkZ:[Kw |5_A--Dkk?c4[-#3t3.b^FUs4GSZp|.');
+define('SECURE_AUTH_SALT', '3ww- MSd1i0+z8r@#7<VSxw!p69&*(_c!uy>ripj<MR``w{u:vNE92u+?nf&9Q2R');
+define('LOGGED_IN_SALT',   '7ar]wmFw<rUH|2ULT+;_b9^tBisN6 Fvy<l]nml~4wDDd5@a]O$H+vaW7+*- n%L');
+define('NONCE_SALT',       'hQ03[Qw*BS5DP7(Hl OC,<}WchE9)WJ:z^@yMbhp<~~-ldfe$v5PU@p///Y8clUo');
 
 /**#@-*/
 
